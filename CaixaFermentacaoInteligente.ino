@@ -1,5 +1,4 @@
 //Programa : Temperatura e umidade com o DHT11 e LCD 16x2
-//Autor : MakerHero
  
 #include <LiquidCrystal.h> //Carrega a biblioteca LCD
 #include <DHT.h> //Carrega a biblioteca DHT
